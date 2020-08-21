@@ -1,2 +1,2 @@
 # Estimating_DEL_yield
-code for my blog post - Importance of building block reaction testing  before building a DEL
+code for my blog post - Test reacting your building blocks before your DEL production and why is it a big deal?
