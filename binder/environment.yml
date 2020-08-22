@@ -2,29 +2,14 @@ name: withdash
 channels:
   - defaults
 dependencies:
-  - dash
-  - swifter
-  - rdkit
-  - multiprocess
   - scipy
-  - umap-learn
-  - hdbscan
   - matplotlib
   - seaborn
   - notebook
-  - jupyterthemes
-  - xeus-python
   - jupyterlab
   - xlrd
   - ipykernel
-  - chembl_webresource_client
-  - openpyxl
-  - python-levenshtein
-  - cx_oracle
-  - nodejs
-  - beautifulsoup4
   - pyqt
-  - tmap
   - conda-build
   - awscli
   - boto3
